@@ -4,7 +4,7 @@
   <id>https://kejinwu.github.io/</id>
   <title>Kejin Wu</title>
   <subtitle></subtitle>
-  <updated>2025-12-15T12:49:45-06:00</updated>
+  <updated>2025-12-25T03:12:53-06:00</updated>
   <author>
     <name>Kejin Wu</name>
     <uri>https://kejinwu.github.io/</uri>
@@ -17,6 +17,28 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Conference: IMS-ICSDS 2025</title>
+    <link href="https://kejinwu.github.io/posts/ICSDS/" rel="alternate" type="text/html" title="Conference: IMS-ICSDS 2025" />
+    <published>2025-12-16T00:00:00-06:00</published>
+  
+    <updated>2025-12-16T00:00:00-06:00</updated>
+  
+    <id>https://kejinwu.github.io/posts/ICSDS/</id>
+    <content type="text/html" src="https://kejinwu.github.io/posts/ICSDS/" />
+    <author>
+      <name>Kejin Wu</name>
+    </author>
+
+  
+    
+  
+
+  <summary>I am glad to present a Talk entitled Deep Limit Model Free Prediction in Regression at the 2025 IMS International Conference on Statistics and Data Science, Seville, Spain.</summary>
+
+  </entry>
 
   
   <entry>
@@ -103,28 +125,6 @@
   
 
   <summary>I am glad to pass my defense talk of my Ph.D. in Statistics at University of California San Diego.     Thanks to my parents.   Thanks to my advisor Dimitris Politis and my committee members Danna Zhang, Ery Arias-Castro and Yian Ma.   Thanks to all my friends.   Defense Talk Slides</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Paper Accepted: Scalable Subsampling Inference for Deep Neural Networks</title>
-    <link href="https://kejinwu.github.io/posts/JDS1/" rel="alternate" type="text/html" title="Paper Accepted: Scalable Subsampling Inference for Deep Neural Networks" />
-    <published>2025-02-01T00:00:00-06:00</published>
-  
-    <updated>2025-02-01T00:00:00-06:00</updated>
-  
-    <id>https://kejinwu.github.io/posts/JDS1/</id>
-    <content type="text/html" src="https://kejinwu.github.io/posts/JDS1/" />
-    <author>
-      <name>Kejin Wu</name>
-    </author>
-
-  
-    
-  
-
-  <summary>In my opinion, this work has a wide application on various scenrios involved neural network training.    Abstract  Deep neural networks (DNN) has received increasing attention in machine learning applications in the last several years. Recently, a non-asymptotic error bound has been developed to measure the performance of the fully connected DNN estimator with ReLU activation functions for esti...</summary>
 
   </entry>
 
