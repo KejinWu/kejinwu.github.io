@@ -1,0 +1,87 @@
+<!-- The Footer -->
+
+<footer
+  aria-label="Site Info"
+  class="
+    d-flex flex-column justify-content-center text-muted
+    flex-lg-row justify-content-lg-between align-items-lg-center pb-lg-3
+  "
+>
+  <!-- This is for adding @2025 Kejin Wu Some rights reserved  -->
+    <!-- <p>
+    {{- '©' }}
+    <time>{{ 'now' | date: '%Y' }}</time>
+
+    {% if site.social.links %}
+      <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>.
+    {% else %}
+      <em class="fst-normal">{{ site.social.name }}</em>.
+    {% endif %}
+
+    {% if site.data.locales[include.lang].copyright.brief %}
+      <span
+        data-bs-toggle="tooltip"
+        data-bs-placement="top"
+        title="{{ site.data.locales[include.lang].copyright.verbose }}"
+      >
+        {{- site.data.locales[include.lang].copyright.brief -}}
+      </span>
+    {% endif %}
+  </p> -->
+    <p id="footer-sentence"></p> <!-- Placeholder for the random sentence -->
+
+    <body>
+        <!-- 在这里创建一个占位符，用于显示随机文本 -->
+        <p id="randomText"></p>
+    
+        <script>
+            // 定义文本选项数组
+            const texts = [
+                "人生天地间, 忽如远行客。",
+                "We are but travelers in this vast world.",
+                "知行合一。",
+                "Unity of knowledge and action.",
+                "长风破浪会有时, 直挂云帆济沧海!",
+                "Someday, with my sail piercing the clouds; I will mount the wind, break the waves, and traverse the vast, rolling sea.",
+                "Carpe diem.",
+                "Seize the day.",
+                "在世人中间不愿渴死的人, 必须学会从一切杯子里痛饮。 在世人中间要保持清洁的人, 必须懂得用脏水也可以洗身。",
+                "山河不足重, 重在遇知己。",
+                "寄蜉蝣于天地, 渺沧海之一粟。",
+                "We are like mayflies wandering in this terrestrial world or a grain of millet drifting on a deep ocean.",
+                "道虽迩, 不行不至; 事虽小, 不为不成。",
+                "Even the shortest journey can’t be finished without taking the first step. Even the most trivial task can’t be completed without taking actions.",
+                "相信相信的力量。",
+                "有点过了吧。",
+                "醉后不知天在水, 满船清梦压星河。",
+                "欲买桂花同载酒，终不似，少年游。"
+
+            ];
+            
+            // 随机选择一个文本
+            const randomText = texts[Math.floor(Math.random() * texts.length)];
+            
+            // 将随机文本插入到页面中
+            document.getElementById("randomText").innerText = randomText;
+        </script>
+
+
+  <p>
+    {%- capture _platform -%}
+      <a href="https://jekyllrb.com" target="_blank" rel="noopener">Jekyll</a>
+    {%- endcapture -%}
+
+    {%- capture _theme -%}
+      <a
+        data-bs-toggle="tooltip"
+        data-bs-placement="top"
+        title="v{{ theme.version }}"
+        href="https://github.com/cotes2020/jekyll-theme-chirpy"
+        target="_blank"
+        rel="noopener"
+      >Chirpy</a>
+    {%- endcapture -%}
+
+    {{ site.data.locales[include.lang].meta | replace: ':PLATFORM', _platform | replace: ':THEME', _theme }}
+  </p>
+</footer>
