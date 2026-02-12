@@ -4,7 +4,7 @@
   <id>https://kejinwu.github.io/</id>
   <title>Kejin Wu</title>
   <subtitle></subtitle>
-  <updated>2026-01-15T18:47:28-06:00</updated>
+  <updated>2026-02-12T11:51:11-06:00</updated>
   <author>
     <name>Kejin Wu</name>
     <uri>https://kejinwu.github.io/</uri>
@@ -17,6 +17,28 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Invitation to organize a session at EcoSta 2026</title>
+    <link href="https://kejinwu.github.io/posts/InvitationforEcoSta/" rel="alternate" type="text/html" title="Invitation to organize a session at EcoSta 2026" />
+    <published>2026-02-09T00:00:00-06:00</published>
+  
+    <updated>2026-02-09T00:00:00-06:00</updated>
+  
+    <id>https://kejinwu.github.io/posts/InvitationforEcoSta/</id>
+    <content type="text/html" src="https://kejinwu.github.io/posts/InvitationforEcoSta/" />
+    <author>
+      <name>Kejin Wu</name>
+    </author>
+
+  
+    
+  
+
+  <summary>I am glad to share that I was invited to organize a session at EcoSta 2026.    Thanks for the recommendation from Professor Karmakar.</summary>
+
+  </entry>
 
   
   <entry>
@@ -103,28 +125,6 @@
   
 
   <summary>Abstract  In this work, we explore the forecasting ability of a recently proposed normalizing and variance-stabilizing (NoVaS) transforma-tion with the possible inclusion of exogenous variables in GARCH volatility specification. The NoVaS prediction method, whichis inspired by a model-free prediction principle, has generally shown more accurate, stable and robust (to misspecifications)performan...</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Passed the Defense Talk of My Ph.D.</title>
-    <link href="https://kejinwu.github.io/posts/PhdGot/" rel="alternate" type="text/html" title="Passed the Defense Talk of My Ph.D." />
-    <published>2025-04-17T00:00:00-05:00</published>
-  
-    <updated>2025-04-17T00:00:00-05:00</updated>
-  
-    <id>https://kejinwu.github.io/posts/PhdGot/</id>
-    <content type="text/html" src="https://kejinwu.github.io/posts/PhdGot/" />
-    <author>
-      <name>Kejin Wu</name>
-    </author>
-
-  
-    
-  
-
-  <summary>I am glad to pass my defense talk of my Ph.D. in Statistics at University of California San Diego.     Thanks to my parents.   Thanks to my advisor Dimitris Politis and my committee members Danna Zhang, Ery Arias-Castro and Yian Ma.   Thanks to all my friends.   Defense Talk Slides</summary>
 
   </entry>
 
