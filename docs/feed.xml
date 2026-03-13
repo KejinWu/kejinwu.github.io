@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://kejinwu.github.io/</id>
+  <id>http://localhost:4000/</id>
   <title>Kejin Wu</title>
   <subtitle></subtitle>
-  <updated>2026-02-12T15:26:08-06:00</updated>
+  <updated>2026-03-12T22:41:58-05:00</updated>
   <author>
     <name>Kejin Wu</name>
-    <uri>https://kejinwu.github.io/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="https://kejinwu.github.io/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="https://kejinwu.github.io/"/>
+    href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <rights> © 2026 Kejin Wu </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -20,14 +20,36 @@
 
   
   <entry>
+    <title>Receive IMS New Researcher Travel Award</title>
+    <link href="http://localhost:4000/posts/IMSNewResearcherTravelAward/" rel="alternate" type="text/html" title="Receive IMS New Researcher Travel Award" />
+    <published>2026-03-12T00:00:00-05:00</published>
+  
+    <updated>2026-03-12T00:00:00-05:00</updated>
+  
+    <id>http://localhost:4000/posts/IMSNewResearcherTravelAward/</id>
+    <content type="text/html" src="http://localhost:4000/posts/IMSNewResearcherTravelAward/" />
+    <author>
+      <name>Kejin Wu</name>
+    </author>
+
+  
+    
+  
+
+  <summary>I am glad to share that I have been selected to receive the Institute of Mathematical Statistics (IMS) New Researcher Travel Award 2026.  Thanks, IMS!</summary>
+
+  </entry>
+
+  
+  <entry>
     <title>Invited to organize a session at EcoSta 2026</title>
-    <link href="https://kejinwu.github.io/posts/InvitationforEcoSta/" rel="alternate" type="text/html" title="Invited to organize a session at EcoSta 2026" />
+    <link href="http://localhost:4000/posts/InvitationforEcoSta/" rel="alternate" type="text/html" title="Invited to organize a session at EcoSta 2026" />
     <published>2026-02-09T00:00:00-06:00</published>
   
     <updated>2026-02-09T00:00:00-06:00</updated>
   
-    <id>https://kejinwu.github.io/posts/InvitationforEcoSta/</id>
-    <content type="text/html" src="https://kejinwu.github.io/posts/InvitationforEcoSta/" />
+    <id>http://localhost:4000/posts/InvitationforEcoSta/</id>
+    <content type="text/html" src="http://localhost:4000/posts/InvitationforEcoSta/" />
     <author>
       <name>Kejin Wu</name>
     </author>
@@ -43,13 +65,13 @@
   
   <entry>
     <title>Conference: IMS-ICSDS 2025</title>
-    <link href="https://kejinwu.github.io/posts/ICSDS/" rel="alternate" type="text/html" title="Conference: IMS-ICSDS 2025" />
+    <link href="http://localhost:4000/posts/ICSDS/" rel="alternate" type="text/html" title="Conference: IMS-ICSDS 2025" />
     <published>2025-12-16T00:00:00-06:00</published>
   
     <updated>2025-12-16T00:00:00-06:00</updated>
   
-    <id>https://kejinwu.github.io/posts/ICSDS/</id>
-    <content type="text/html" src="https://kejinwu.github.io/posts/ICSDS/" />
+    <id>http://localhost:4000/posts/ICSDS/</id>
+    <content type="text/html" src="http://localhost:4000/posts/ICSDS/" />
     <author>
       <name>Kejin Wu</name>
     </author>
@@ -65,13 +87,13 @@
   
   <entry>
     <title>Conference: NBER NSF Time Series 2025 </title>
-    <link href="https://kejinwu.github.io/posts/NBERNSF/" rel="alternate" type="text/html" title="Conference: NBER NSF Time Series 2025 " />
+    <link href="http://localhost:4000/posts/NBERNSF/" rel="alternate" type="text/html" title="Conference: NBER NSF Time Series 2025 " />
     <published>2025-09-19T00:00:00-05:00</published>
   
     <updated>2025-09-19T00:00:00-05:00</updated>
   
-    <id>https://kejinwu.github.io/posts/NBERNSF/</id>
-    <content type="text/html" src="https://kejinwu.github.io/posts/NBERNSF/" />
+    <id>http://localhost:4000/posts/NBERNSF/</id>
+    <content type="text/html" src="http://localhost:4000/posts/NBERNSF/" />
     <author>
       <name>Kejin Wu</name>
     </author>
@@ -87,13 +109,13 @@
   
   <entry>
     <title>My First Academia Job, Assistant Professor at Loyola University Chicago</title>
-    <link href="https://kejinwu.github.io/posts/firstjob/" rel="alternate" type="text/html" title="My First Academia Job, Assistant Professor at Loyola University Chicago" />
+    <link href="http://localhost:4000/posts/firstjob/" rel="alternate" type="text/html" title="My First Academia Job, Assistant Professor at Loyola University Chicago" />
     <published>2025-08-11T00:00:00-05:00</published>
   
     <updated>2025-08-11T00:00:00-05:00</updated>
   
-    <id>https://kejinwu.github.io/posts/firstjob/</id>
-    <content type="text/html" src="https://kejinwu.github.io/posts/firstjob/" />
+    <id>http://localhost:4000/posts/firstjob/</id>
+    <content type="text/html" src="http://localhost:4000/posts/firstjob/" />
     <author>
       <name>Kejin Wu</name>
     </author>
@@ -103,28 +125,6 @@
   
 
   <summary>I am glad to join the Department of Mathematics and Statistics, Loyola University Chicago, as an Assistant Professor in Aug. 2025.    My Research Statement and Teaching Statement at that moment.  Hope I can keep moving forward!</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Paper Accepted: GARCHX-NoVaS: A Bootstrap-Based Approach of Forecasting for GARCHX Models</title>
-    <link href="https://kejinwu.github.io/posts/JoF/" rel="alternate" type="text/html" title="Paper Accepted: GARCHX-NoVaS: A Bootstrap-Based Approach of Forecasting for GARCHX Models" />
-    <published>2025-05-13T00:00:00-05:00</published>
-  
-    <updated>2025-05-13T00:00:00-05:00</updated>
-  
-    <id>https://kejinwu.github.io/posts/JoF/</id>
-    <content type="text/html" src="https://kejinwu.github.io/posts/JoF/" />
-    <author>
-      <name>Kejin Wu</name>
-    </author>
-
-  
-    
-  
-
-  <summary>Abstract  In this work, we explore the forecasting ability of a recently proposed normalizing and variance-stabilizing (NoVaS) transforma-tion with the possible inclusion of exogenous variables in GARCH volatility specification. The NoVaS prediction method, whichis inspired by a model-free prediction principle, has generally shown more accurate, stable and robust (to misspecifications)performan...</summary>
 
   </entry>
 
