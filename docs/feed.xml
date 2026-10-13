@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://kejinwu.github.io/</id>
+  <id>http://localhost:4000/</id>
   <title>Kejin Wu</title>
   <subtitle></subtitle>
-  <updated>2026-08-10T19:55:01-05:00</updated>
+  <updated>2026-10-12T21:41:56-05:00</updated>
   <author>
     <name>Kejin Wu</name>
-    <uri>https://kejinwu.github.io/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="https://kejinwu.github.io/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="https://kejinwu.github.io/"/>
+    href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <rights> © 2026 Kejin Wu </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -20,14 +20,36 @@
 
   
   <entry>
+    <title>Started organizing webinars for the Business and Economic Statistics Section ASA 2026-2027</title>
+    <link href="http://localhost:4000/posts/WebinarChair/" rel="alternate" type="text/html" title="Started organizing webinars for the Business and Economic Statistics Section ASA 2026-2027" />
+    <published>2026-09-23T00:00:00-05:00</published>
+  
+    <updated>2026-09-23T00:00:00-05:00</updated>
+  
+    <id>http://localhost:4000/posts/WebinarChair/</id>
+    <content type="text/html" src="http://localhost:4000/posts/WebinarChair/" />
+    <author>
+      <name>Kejin Wu</name>
+    </author>
+
+  
+    
+  
+
+  <summary>I am glad to organize webinars for the Business and Economic Statistics Section ASA in 2026-2027 academic year.  The events of webinar can be found at Link.</summary>
+
+  </entry>
+
+  
+  <entry>
     <title>Organized an invited session and gave a talk at EcoSta 2026.</title>
-    <link href="https://kejinwu.github.io/posts/EcoSta2026/" rel="alternate" type="text/html" title="Organized an invited session and gave a talk at EcoSta 2026." />
+    <link href="http://localhost:4000/posts/EcoSta2026/" rel="alternate" type="text/html" title="Organized an invited session and gave a talk at EcoSta 2026." />
     <published>2026-08-09T00:00:00-05:00</published>
   
     <updated>2026-08-09T00:00:00-05:00</updated>
   
-    <id>https://kejinwu.github.io/posts/EcoSta2026/</id>
-    <content type="text/html" src="https://kejinwu.github.io/posts/EcoSta2026/" />
+    <id>http://localhost:4000/posts/EcoSta2026/</id>
+    <content type="text/html" src="http://localhost:4000/posts/EcoSta2026/" />
     <author>
       <name>Kejin Wu</name>
     </author>
@@ -43,13 +65,13 @@
   
   <entry>
     <title>Paper accepted by Multivariate Behavioral Research</title>
-    <link href="https://kejinwu.github.io/posts/MBRpaper/" rel="alternate" type="text/html" title="Paper accepted by Multivariate Behavioral Research" />
+    <link href="http://localhost:4000/posts/MBRpaper/" rel="alternate" type="text/html" title="Paper accepted by Multivariate Behavioral Research" />
     <published>2026-07-13T00:00:00-05:00</published>
   
     <updated>2026-07-13T00:00:00-05:00</updated>
   
-    <id>https://kejinwu.github.io/posts/MBRpaper/</id>
-    <content type="text/html" src="https://kejinwu.github.io/posts/MBRpaper/" />
+    <id>http://localhost:4000/posts/MBRpaper/</id>
+    <content type="text/html" src="http://localhost:4000/posts/MBRpaper/" />
     <author>
       <name>Kejin Wu</name>
     </author>
@@ -65,13 +87,13 @@
   
   <entry>
     <title>Invited talk at International Symposium on Nonparametric Statistics (ISNPS) 2026</title>
-    <link href="https://kejinwu.github.io/posts/ISNPS/" rel="alternate" type="text/html" title="Invited talk at International Symposium on Nonparametric Statistics (ISNPS) 2026" />
+    <link href="http://localhost:4000/posts/ISNPS/" rel="alternate" type="text/html" title="Invited talk at International Symposium on Nonparametric Statistics (ISNPS) 2026" />
     <published>2026-06-23T00:00:00-05:00</published>
   
     <updated>2026-06-23T00:00:00-05:00</updated>
   
-    <id>https://kejinwu.github.io/posts/ISNPS/</id>
-    <content type="text/html" src="https://kejinwu.github.io/posts/ISNPS/" />
+    <id>http://localhost:4000/posts/ISNPS/</id>
+    <content type="text/html" src="http://localhost:4000/posts/ISNPS/" />
     <author>
       <name>Kejin Wu</name>
     </author>
@@ -87,13 +109,13 @@
   
   <entry>
     <title>Invited talk at Recent Advances in Time Series (RATS) 2026</title>
-    <link href="https://kejinwu.github.io/posts/RATS2026/" rel="alternate" type="text/html" title="Invited talk at Recent Advances in Time Series (RATS) 2026" />
+    <link href="http://localhost:4000/posts/RATS2026/" rel="alternate" type="text/html" title="Invited talk at Recent Advances in Time Series (RATS) 2026" />
     <published>2026-06-19T00:00:00-05:00</published>
   
     <updated>2026-06-19T00:00:00-05:00</updated>
   
-    <id>https://kejinwu.github.io/posts/RATS2026/</id>
-    <content type="text/html" src="https://kejinwu.github.io/posts/RATS2026/" />
+    <id>http://localhost:4000/posts/RATS2026/</id>
+    <content type="text/html" src="http://localhost:4000/posts/RATS2026/" />
     <author>
       <name>Kejin Wu</name>
     </author>
@@ -103,28 +125,6 @@
   
 
   <summary>I am glad to present an Invited Talk entitled Distributional Conformal Prediction for Markov Process at the Recent Advances in Time Series (RATS) 2026, Larnaca, Cyprus.  Thanks for the invitation and organization by Jens-Peter Kreiss, Efstathios Paparoditis, and Dimitris Politis.</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Invited talk at New England Statistics Symposium (NESS) 2026</title>
-    <link href="https://kejinwu.github.io/posts/NESS2026/" rel="alternate" type="text/html" title="Invited talk at New England Statistics Symposium (NESS) 2026" />
-    <published>2026-05-28T00:00:00-05:00</published>
-  
-    <updated>2026-05-28T00:00:00-05:00</updated>
-  
-    <id>https://kejinwu.github.io/posts/NESS2026/</id>
-    <content type="text/html" src="https://kejinwu.github.io/posts/NESS2026/" />
-    <author>
-      <name>Kejin Wu</name>
-    </author>
-
-  
-    
-  
-
-  <summary>I am glad to present an Invited Talk entitled Distributional Conformal Prediction for Markov Process at the New England Statistical Society (NESS) 2026, University of Connecticut.  Thanks for the invitation from Professor Yao Zheng.</summary>
 
   </entry>
 
